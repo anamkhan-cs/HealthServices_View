@@ -1,0 +1,295 @@
+{
+  "Course" : {
+    "EECS394" : {
+      "Instructor" : "Christopher Riesbeck",
+      "Name" : "Agile Software Development",
+      "Roster" : [ "Tom Smith", "Jane Doe" ]
+    }
+  },
+  "Student" : {
+    "Johnny Appleseed" : {
+      "Major" : "CS",
+      "Name" : "Johnny Appleseed",
+      "Status" : "undocumented",
+      "classStanding" : "Graduate",
+      "netid" : "jac6310",
+      "record" : {
+        "5-11-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "97.9",
+          "url" : "url goes here"
+        },
+        "5-12-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "98.5",
+          "url" : "url goes here"
+        },
+        "5-17-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "100.9",
+          "url" : "url goes here"
+        },
+        "5-18-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "101",
+          "url" : "url goes here"
+        },
+        "5-19-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "105",
+          "url" : "url goes here"
+        },
+        "5-26-2020" : {
+          "Abdominal pain" : "no",
+          "Body aches" : "no",
+          "Loss of taste" : "yes",
+          "NOTIFIED" : "false",
+          "Severe cough" : "no",
+          "Shortness of breath" : "yes",
+          "temp" : "98",
+          "url" : "url goes here"
+        }
+      }
+    },
+    "Tom Smith" : {
+      "Major" : "CS",
+      "Name" : "Tom Smith",
+      "Status" : "undefined",
+      "classStanding" : "Graduate",
+      "netid" : "tsc6932",
+      "record" : {
+        "5-11-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "100",
+          "url" : "url goes here"
+        },
+        "5-12-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "98.5",
+          "url" : "url goes here"
+        },
+        "5-17-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "98.9",
+          "url" : "url goes here"
+        },
+        "5-18-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "98",
+          "url" : "url goes here"
+        },
+        "5-19-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "105",
+          "url" : "url goes here"
+        }
+      }
+    },
+    "Jane Doe" : {
+      "Major" : "CS",
+      "Name" : "Jane Doe",
+      "Status" : "undefined",
+      "classStanding" : "Undergraduate",
+      "netid" : "jdc7128",
+      "record" : {
+        "5-12-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "96",
+          "url" : "url goes here"
+        },
+        "5-13-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "98.7",
+          "url" : "url goes here"
+        },
+        "5-19-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "97.0",
+          "url" : "url goes here"
+        },
+        "5-25-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "100",
+          "url" : "url goes here"
+        }
+      }
+    },
+    "Thomas Crane" : {
+      "Major" : "CS",
+      "Name" : "Thomas Crane",
+      "Status" : "undefined",
+      "classStanding" : "Undergraduate",
+      "netid" : "thc7059",
+      "record" : {
+        "5-15-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "98.6",
+          "url" : "url goes here"
+        },
+        "5-17-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "98.5",
+          "url" : "url goes here"
+        }
+      }
+    },
+    "Cierra Vega" : {
+      "Major" : "CS",
+      "Name" : "Cierra Vega",
+      "Status" : "undefined",
+      "classStanding" : "Graduate",
+      "netid" : "cvs1927",
+      "record" : {
+        "5-12-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "98",
+          "url" : "url goes here"
+        },
+        "5-13-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "99",
+          "url" : "url goes here"
+        },
+        "5-25-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "94",
+          "url" : "url goes here"
+        },
+        "5-26-2020" : {
+          "Abdominal pain" : "no",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "no",
+          "Shortness of breath" : "no",
+          "temp" : "90",
+          "url" : "url goes here"
+        }
+      }
+    },
+    "Miranda Shaffer" : {
+      "Major" : "CS",
+      "Name" : "Miranda Shaffer",
+      "Status" : "undefined",
+      "classStanding" : "Graduate",
+      "netid" : "msh1979",
+      "record" : {
+        "5-19-2020" : {
+          "Abdominal pain" : "yes",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "yes",
+          "Shortness of breath" : "no",
+          "temp" : "103",
+          "url" : "url goes here"
+        },
+        "5-27-2020" : {
+          "Abdominal pain" : "no",
+          "Body aches" : "no",
+          "Loss of taste" : "no",
+          "NOTIFIED" : "false",
+          "Severe cough" : "no",
+          "Shortness of breath" : "no",
+          "temp" : "103",
+          "url" : "url goes here"
+        }
+      }
+    }
+  }
+}
