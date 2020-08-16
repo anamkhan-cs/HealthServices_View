@@ -6,8 +6,8 @@ Health Passport (Health Services Side)
 Health Passport is a system which can guarantee a safer class environment during COVID-19. This repo is
 specifically for the student side application. To see the other two platforms (Professor side and Student side), you can go to
 
-* https://github.com/cs394-s20/HealthTracker_Professor_View
-* https://github.com/cs394-s20/HealthTracker_Student_View
+* https://github.com/anamkhan2/HealthTracker_Professor_View
+* https://github.com/anamkhan2/HealthTracker_Student_View
 
 This app shows what the Health Services office will see on their end. It supports the following functionality:
 
